@@ -1,3 +1,5 @@
-# PHPwebshell
+# webshell
 
 ##用于存放个人制作的免杀php木马
+
+###包括404页面伪装的小马，大马，以及phpinfo伪装的一句话
