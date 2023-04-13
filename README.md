@@ -16,8 +16,9 @@ phpinfo伪装马链接冰蝎测试
 
 
 **php仅进行了简单的混淆**
+
 虚拟机没有养蛊，没装杀软，直接丢VT查杀了一遍
 ![](https://blog.hackersafe.cn/usr/uploads/2023/04/786935356.jpg) 
 ![](https://blog.hackersafe.cn/usr/uploads/2023/04/525643061.jpg) 
 
-其他小马均达到免杀效果
+其他的小马均达到免杀效果
