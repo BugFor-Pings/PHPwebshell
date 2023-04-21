@@ -29,7 +29,7 @@ phpinfo伪装马链接冰蝎测试
 Apache代码执行一句话
 ![](https://blog.hackersafe.cn/usr/uploads/2023/04/2615735501.png)
 链接效果：
-![]（https://blog.hackersafe.cn/usr/uploads/2023/04/3934924214.png）
+![](https://blog.hackersafe.cn/usr/uploads/2023/04/3934924214.png)
 Nginx代码执行一句话
 ![](https://blog.hackersafe.cn/usr/uploads/2023/04/4103886106.png)
 链接效果:
