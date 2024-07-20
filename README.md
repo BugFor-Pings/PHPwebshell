@@ -75,4 +75,6 @@ phpinfo代码执行一句话
 
 其余杀软未测试，自寻下载项目扫描！
 
+[![Star History Chart](https://api.star-history.com/svg?repos=BugFor-Pings/PHPwebshell&type=Date)](https://star-history.com/#BugFor-Pings/PHPwebshell&Date)
+
 
